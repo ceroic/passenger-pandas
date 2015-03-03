@@ -1,4 +1,4 @@
-FROM phusion/passenger-full:0.9.10
+FROM phusion/passenger-full:0.9.15
 MAINTAINER Ceroic <ops@ceroic.com>
 
 # Install Packages
